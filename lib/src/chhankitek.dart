@@ -336,9 +336,9 @@ class Chhankitek {
       return Constant.lunarMonths['អស្សុជ']!;
     }
     if (khmerMonth == Constant.lunarMonths['អស្សុជ']) {
-      return Constant.lunarMonths['កក្ដិក']!;
+      return Constant.lunarMonths['កត្ដិក']!;
     }
-    if (khmerMonth == Constant.lunarMonths['កក្ដិក']) {
+    if (khmerMonth == Constant.lunarMonths['កត្ដិក']) {
       return Constant.lunarMonths['មិគសិរ']!;
     }
     if (khmerMonth == Constant.lunarMonths['បឋមាសាឍ']) {
